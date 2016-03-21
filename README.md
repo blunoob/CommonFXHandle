@@ -1,0 +1,3 @@
+<b># CommonFXHandle</b>
+<br>
+Thinking of whether to make my Asset https://www.assetstore.unity3d.com/en/#!/content/54238 opensource and put the code here... Just thinking...
